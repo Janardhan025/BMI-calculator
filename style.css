@@ -1,0 +1,24 @@
+.main{
+    text-align: center;
+    background-color: rgb(190, 146, 190);
+    width: fit-content;
+    padding: 15px;
+    font-size: 24px;
+}
+input{
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    font-size: 22px;
+}
+
+button{
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+}
